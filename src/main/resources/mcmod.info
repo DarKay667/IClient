@@ -1,0 +1,16 @@
+[
+{
+  "modid": "iclient",
+  "name": "IClient",
+  "description": "",
+  "version": "b1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DarKay__"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
